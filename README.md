@@ -82,7 +82,19 @@ IBM Full-Stack Development Certificate GitHub Final Project
 
 Simple Readme file for the IBM Full-Stack Development Certificate GitHub Final Project.
 
-
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.<br />
+Input: 
+<br />
+   &ensp;p, principal amount
+   <br />
+   &ensp;t, time period in years
+   <br />
+   &ensp;r, annual rate of interest 
+<br />
+Output:
+<br />
+   &ensp;simple interest = p*t*r
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -90,6 +102,8 @@ Simple Readme file for the IBM Full-Stack Development Certificate GitHub Final P
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+
 
 
 
