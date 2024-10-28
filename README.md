@@ -204,7 +204,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Okino Kamali Leiba - [@king_tweet](https://twitter.com/kingtweet) - ol@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/okinoleiba/github-final-project)
+Project Link: [https://github.com/okinoleiba/github-final-project](https://github.com/okinoleiba/github-final-project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
